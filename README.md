@@ -14,7 +14,7 @@ I'm an **Applied Artificial Intelligence Student** based in **Germany** 🇩🇪
 ### 🛠️ Toolbox
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=p,sklearn,pytorch,fastapi,java" />
+    <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,fastapi,java" />
   </a>
   <br/>
   <a href="https://skillicons.dev">
