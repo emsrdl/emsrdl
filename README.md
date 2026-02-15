@@ -33,7 +33,7 @@ I'm an **Applied Artificial Intelligence Student** based in **Germany** 🇩🇪
 
 ---
 
-### 🏆 Achievements & Activity
+### ⌛ Activity
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emsrdl&theme=tokyonight&hide_border=true" alt="streak" />
 
