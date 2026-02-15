@@ -1,16 +1,50 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5218FA&height=220&section=header&text=EMSR&fontSize=80" width="100%"/>
+</div>
 
-<!--
-**emsrdl/emsrdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 About Me
+I'm an **Applied Artificial Intelligence Student** based in **Germany** 🇩🇪.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on an **ESP32-based IoT Safety Device**.
+- 💼 At work, I develop using **Angular**.
+- 🖥️ I’m currently learning **React** to customize my personal sites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Toolbox
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,fastapi,sklearn,pytorch,java" />
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,cs,dotnet,angular,react" />
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,terraform,azure,cloudflare,linux" />
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,obsidian" />
+  </a>
+</div>
+
+
+---
+
+### 🏆 Achievements & Activity
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emsrdl&theme=tokyonight&hide_border=true" alt="streak" />
+
+</div>
+
+### 📫 Connect
+<p align="center">
+<a href="https://www.linkedin.com/in/riedelias/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://emsr.cc">
+  <img src="https://img.shields.io/badge/emsr.cc-000000?style=for-the-badge&logoColor=white" />
+</a>
+</p>
