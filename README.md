@@ -18,7 +18,7 @@ I'm an **Applied Artificial Intelligence Student** based in **Germany** 🇩🇪
   </a>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,cs,dotnet,angular,react" />
+    <img src="https://skillicons.dev/icons?i=ts,html,css,tailwind,cs,dotnet,angular,react" />
   </a>
   <br/>
   <a href="https://skillicons.dev">
