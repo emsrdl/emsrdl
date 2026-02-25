@@ -6,7 +6,7 @@
 I'm an **Applied Artificial Intelligence Student** based in **Germany** 🇩🇪.
 
 - 🔭 I’m currently working on an **ESP32-based IoT Safety Device**.
-- 💼 At work, I develop using **Angular**.
+- 💼 At work, I develop using **Angular** and **Python**.
 - 🖥️ I’m currently learning **React** to customize my personal sites.
 
 ---
