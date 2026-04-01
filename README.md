@@ -26,7 +26,7 @@ I'm an **Applied Artificial Intelligence Student** based in **Germany** 🇩🇪
   </a>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,obsidian,linux,mac,windows" />
+    <img src="https://skillicons.dev/icons?i=vscode,obsidian,linux,apple,windows" />
   </a>
 </div>
 
