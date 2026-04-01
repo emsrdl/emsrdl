@@ -22,11 +22,11 @@ I'm an **Applied Artificial Intelligence Student** based in **Germany** 🇩🇪
   </a>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,terraform,azure,cloudflare,linux" />
+    <img src="https://skillicons.dev/icons?i=git,docker,terraform,azure,cloudflare" />
   </a>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,obsidian" />
+    <img src="https://skillicons.dev/icons?i=vscode,obsidian,linux,mac,windows" />
   </a>
 </div>
 
